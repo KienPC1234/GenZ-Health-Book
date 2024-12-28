@@ -89,24 +89,3 @@
 
 * [Page Chia Sẻ Kinh Nghiệm Và Tin Tức Mới Nhất về Sức Khỏe Sinh Sản](page-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
 * [Câu chuyện từ học sinh, chuyên gia sức khỏe](page-va-tin-tuc/cau-chuyen-tu-hoc-sinh-chuyen-gia-suc-khoe.md)
-
-***
-
-* [Welcome 2](<README (1).md>)
-
-## Getting Started
-
-* [Publish your docs](getting-started/publish-your-docs.md)
-* [Quickstart](getting-started/quickstart.md)
-
-## Basics
-
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
-***
-
-* [Editor](editor.md)

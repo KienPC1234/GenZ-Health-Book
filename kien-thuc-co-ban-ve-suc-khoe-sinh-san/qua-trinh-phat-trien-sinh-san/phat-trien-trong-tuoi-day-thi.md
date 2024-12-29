@@ -109,8 +109,6 @@ Dậy thì ở nam và nữ có một số điểm tương đồng nhưng cũng 
 
 Dậy thì là một quá trình phức tạp và đa dạng, đòi hỏi sự hiểu biết và hỗ trợ từ cả phụ huynh và trẻ em. Bằng cách nhận biết và hiểu rõ các giai đoạn phát triển, thay đổi về thể chất và tinh thần, chúng ta có thể giúp trẻ em trải qua giai đoạn này một cách suôn sẻ và tự tin hơn. Hãy nhớ rằng, dậy thì không chỉ là về sự phát triển cơ thể mà còn là sự phát triển toàn diện của cá nhân, bao gồm cả cảm xúc và tâm lý.
 
-_Xin lưu ý: Thông tin trong bài viết chỉ mang tính chất tham khảo. Độc giả vui lòng liên hệ với Bác sĩ, Dược sĩ hoặc chuyên viên y tế để được tư vấn cụ thể và chính xác nhất._
-
 ***
 
 ## Tham khảo

@@ -39,7 +39,7 @@
 
 * [Các Bệnh Lây Truyền Qua Đường Tình Dục (STIs)](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/README.md)
   * [Chlamydia](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/chlamydia.md)
-  * [Gonorrhea](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/gonorrhea.md)
+  * [Gonorrhea (Lậu)](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/gonorrhea.md)
   * [HIV/AIDS](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/hiv-aids.md)
   * [Herpes](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/herpes.md)
   * [HPV (Human Papillomavirus)](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/hpv-human-papillomavirus.md)

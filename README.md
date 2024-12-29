@@ -41,4 +41,4 @@ Nếu bạn có bất kỳ câu hỏi hoặc cần tư vấn, đừng ngần ng�
 
 ***
 
-**GenZ Health Book** – Đồng hành cùng bạn trên con đường trưởng thành và bảo vệ sức khỏe sinh sản.
+**Decoded Wellness** – Đồng hành cùng bạn trên con đường trưởng thành và bảo vệ sức khỏe sinh sản.

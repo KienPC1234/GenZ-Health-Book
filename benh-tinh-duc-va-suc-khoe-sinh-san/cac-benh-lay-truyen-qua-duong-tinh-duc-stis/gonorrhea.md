@@ -82,6 +82,8 @@ Vì bệnh lậu là một trong những căn bệnh xã hội lây nhiễm ph�
 * Duy trì mối quan hệ vợ chồng lâu dài từ hai phía với đối tượng đã được xét nghiệm là âm tính với vi khuẩn lậu.
 * Sử dụng bao cao su và tấm bảo vệ miệng đúng cách khi quan hệ tình dục
 
+***
+
 ## Các biện pháp chẩn đoán bệnh Lậu
 
 Bệnh lậu có thể được chẩn đoán nhờ vào các phương pháp sau:

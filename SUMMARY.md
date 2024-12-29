@@ -6,7 +6,7 @@
 ## Kiến Thức Cơ Bản Về Sức Khỏe Sinh Sản
 
 * [Giới Thiệu về Sức Khỏe Sinh Sản](kien-thuc-co-ban-ve-suc-khoe-sinh-san/gioi-thieu-ve-suc-khoe-sinh-san.md)
-* [Các Cơ Quan Sinh Sản của Nam và Nữ](kien-thuc-co-ban-ve-suc-khoe-sinh-san/cac-co-quan-sinh-san-cua-nam-va-nu.md)
+* [Tìm hiểu về cấu trúc và sinh lý của hệ sinh dục nam và nữ](kien-thuc-co-ban-ve-suc-khoe-sinh-san/cac-co-quan-sinh-san-cua-nam-va-nu.md)
 * [Quá Trình Phát Triển Sinh Sản](kien-thuc-co-ban-ve-suc-khoe-sinh-san/qua-trinh-phat-trien-sinh-san/README.md)
   * [Phát triển trong tuổi dậy thì](kien-thuc-co-ban-ve-suc-khoe-sinh-san/qua-trinh-phat-trien-sinh-san/phat-trien-trong-tuoi-day-thi.md)
   * [Quá trình thụ tinh và mang thai](kien-thuc-co-ban-ve-suc-khoe-sinh-san/qua-trinh-phat-trien-sinh-san/qua-trinh-thu-tinh-va-mang-thai.md)

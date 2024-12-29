@@ -1,7 +1,7 @@
 ---
 icon: heart
 cover: ../.gitbook/assets/UjScU5gT-zT3I4yTtmSszD4zuwZweX1Z.png
-coverY: 0
+coverY: -61.21829163071613
 layout:
   cover:
     visible: true

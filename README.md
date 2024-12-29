@@ -10,7 +10,7 @@ coverY: 0
 
 ## Giới thiệu
 
-Chào mừng bạn đến với **GenZ Health Book** – trang web dành riêng cho học sinh trung học cơ sở và trung học phổ thông, nhằm trang bị kiến thức về sức khỏe sinh sản và tình dục. Chúng tôi hiểu rằng việc thiếu thông tin chính xác có thể dẫn đến những hệ lụy nghiêm trọng. Vì vậy, sứ mệnh của chúng tôi là cung cấp kiến thức khoa học, đáng tin cậy để bảo vệ sức khỏe và tương lai của bạn.
+Chào mừng bạn đến với **Decoded Wellness** – trang web dành riêng cho học sinh trung học cơ sở và trung học phổ thông, nhằm trang bị kiến thức về sức khỏe sinh sản và tình dục. Chúng tôi hiểu rằng việc thiếu thông tin chính xác có thể dẫn đến những hệ lụy nghiêm trọng. Vì vậy, sứ mệnh của chúng tôi là cung cấp kiến thức khoa học, đáng tin cậy để bảo vệ sức khỏe và tương lai của bạn.
 
 ***
 

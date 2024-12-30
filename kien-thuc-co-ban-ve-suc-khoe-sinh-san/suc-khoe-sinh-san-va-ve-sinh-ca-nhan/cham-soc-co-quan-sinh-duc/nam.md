@@ -21,6 +21,8 @@ Cách để loại bỏ bựa dương vật cực kì đơn giản đó là bi�
 
 <figure><img src="../../../.gitbook/assets/huong_dan_cach_ve_sinh_duong_vat.png" alt=""><figcaption><p><em>Vệ sinh vùng kín nam đúng cách sẽ giúp "cậu nhỏ" luôn thơm tho, khoẻ mạnh</em></p></figcaption></figure>
 
+***
+
 ## Hướng dẫn cách vệ sinh dương vật đúng cách
 
 Vệ sinh vùng kín nam đúng cách là bao gồm vệ sinh cả dương vật và khu vực xung quanh "cậu nhỏ", kể cả vùng bìu và dưới bao quy đầu. Cách vệ sinh cậu nhỏ thơm tho, sạch sẽ như sau:
@@ -36,6 +38,8 @@ Nếu bựa sinh dục đã bị cứng thì không nên cố gắng gỡ chúng
 Việc vệ sinh dương vật nên được thực hiện hàng ngày trong lúc tắm rửa. Ngoài ra, thông qua việc vệ sinh mà bạn phát hiện dương vật bị viêm hoặc sưng đỏ thì hãy nhanh chóng đi khám vì rất có thể đây là triệu chứng của bệnh lý sinh dục nào đó.
 
 <figure><img src="../../../.gitbook/assets/huong_dan_cach_ve_sinh_duong_vat (1).png" alt=""><figcaption><p><em>Có thể kết hợp vệ sinh vùng kín trong lúc tắm</em></p></figcaption></figure>
+
+***
 
 ## Một số lưu ý khác về việc giữ vệ sinh dương vật
 

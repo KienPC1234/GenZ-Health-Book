@@ -3,6 +3,8 @@ description: >-
   Phụ nữ lớn tuổi khó sinh do vấn đề buồng trứng, còn tuổi vị thành niên do
   khung xương chậu chưa giãn nở tối đa. Các chuyên gia khẳng định độ tuổi sinh
   con tốt nhất là 20-35.
+cover: ../../../.gitbook/assets/do-tuoi-sinh-con-tot-nhat-cua-ph (1).png
+coverY: 0
 ---
 
 # Nữ

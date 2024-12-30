@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/do-tuoi-sinh-con-tot-nhat-cua-ph.png
+cover: ../../.gitbook/assets/do-tuoi-sinh-con-tot-nhat-cua-ph.png
 coverY: 41
 layout:
   cover:

@@ -18,7 +18,9 @@
   * [Mãn kinh](kien-thuc-co-ban-ve-suc-khoe-sinh-san/cac-giai-doan-sinh-san/man-kinh.md)
 * [Sức Khỏe Sinh Sản và Vệ Sinh Cá Nhân](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/README.md)
   * [Vệ sinh cơ thể hàng ngày](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/ve-sinh-co-the-hang-ngay.md)
-  * [Chăm sóc cơ quan sinh dục](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc.md)
+  * [Chăm sóc cơ quan sinh dục](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc/README.md)
+    * [Nữ](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc/nu.md)
+    * [Nam](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc/nam.md)
 
 ## Sức Khỏe Tình Dục và Quan Hệ Tình Dục An Toàn
 

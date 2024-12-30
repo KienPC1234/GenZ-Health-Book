@@ -1,4 +1,7 @@
 ---
+description: >-
+  Bệnh lậu xảy ra ở mọi đối tượng và mọi lứa tuổi nhưng hay gặp nhất là nam nữ
+  trong độ tuổi 15 đến 24.
 cover: ../../.gitbook/assets/images.png
 coverY: 0
 ---
@@ -10,8 +13,6 @@ coverY: 0
 ### **Bệnh lậu là gì?**
 
 **Bệnh lậu** là bệnh lây nhiễm rất phổ biến thông qua con đường tình dục, do một loại vi khuẩn có tên Neisseria gonorrhoeae hay gonococcus gây nên. Loại vi khuẩn này thường xuất hiện trong âm đạo, cổ tử cung, mắt, miệng, hậu môn và đặc biệt là ở đường niệu đạo nam giới.
-
-Bệnh lậu xảy ra ở mọi đối tượng và mọi lứa tuổi nhưng hay gặp nhất là nam nữ trong độ tuổi 15 đến 24.
 
 ***
 
@@ -116,6 +117,12 @@ Ngoài ra, bệnh nhân mắc phải bệnh lậu cần có những thói quen s
 * Sau quá trình điều trị, bệnh nhân cần quan hệ tình dục an toàn, lành mạnh.
 * Có chế độ sinh hoạt, dinh dưỡng, ngủ nghỉ đúng giờ để nâng cao đề kháng cho cơ thể.
 * Vệ sinh thân thể thường xuyên, nhất là những nơi mà vi khuẩn lậu xâm nhập vào cơ thể.
+
+***
+
+## Bệnh lậu – Biểu hiện và cách điều trị (Video)
+
+{% embed url="https://www.youtube.com/watch?v=UESuu9fye1s" %}
 
 ***
 

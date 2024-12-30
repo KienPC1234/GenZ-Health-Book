@@ -20,3 +20,11 @@ layout:
 # Tuổi sinh sản
 
 ## Bạn có thể cho mình biết giới tính của bạn được không?
+
+{% content-ref url="tuoi-sinh-san/nam.md" %}
+[nam.md](tuoi-sinh-san/nam.md)
+{% endcontent-ref %}
+
+{% content-ref url="tuoi-sinh-san/nu.md" %}
+[nu.md](tuoi-sinh-san/nu.md)
+{% endcontent-ref %}

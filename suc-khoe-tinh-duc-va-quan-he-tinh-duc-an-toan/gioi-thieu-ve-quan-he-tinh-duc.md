@@ -15,17 +15,12 @@ Quan hệ tình dục đều đặn và lành mạnh có thể mang lại nhiề
 
 
 
-<figure><img src="../.gitbook/assets/cac-buoc-quan-he-tinh-duc-1.jpg" alt=""><figcaption></figcaption></figure>
-
-_Quan hệ lành mạnh mang lại nhiều lợi ích về sức khỏe thể và tinh thần_
+<figure><img src="../.gitbook/assets/cac-buoc-quan-he-tinh-duc-1.jpg" alt=""><figcaption><p><em>Quan hệ lành mạnh mang lại nhiều lợi ích về sức khỏe thể và tinh thần</em></p></figcaption></figure>
 
 * Quan hệ tình dục đúng cách mang lại nhiều lợi ích về tâm lý:
-
-\+ Nhận thức tốt hơn, tích cực hơn về hình ảnh của bản thân.
-
-\+ Đời sống tình dục hòa hợp giúp các cặp đôi có cảm giác hạnh phúc hơn.
-
-\+ Tăng cơ hội gắn kết: Khi quan hệ tình dục, não sẽ giải phóng ra nhiều loại hormone, bao gồm cả endorphin có tác dụng giảm bớt cảm giác cáu gắt hay chán nản. Bên cạnh đó, hormone oxytocin cũng được giải phóng từ não khi quan hệ tình dục, giúp cặp đôi có cảm giác thư thái, mãn nguyện.
+  * Nhận thức tốt hơn, tích cực hơn về hình ảnh của bản thân.
+  * Đời sống tình dục hòa hợp giúp các cặp đôi có cảm giác hạnh phúc hơn.
+  * Tăng cơ hội gắn kết: Khi quan hệ tình dục, não sẽ giải phóng ra nhiều loại hormone, bao gồm cả endorphin có tác dụng giảm bớt cảm giác cáu gắt hay chán nản. Bên cạnh đó, hormone oxytocin cũng được giải phóng từ não khi quan hệ tình dục, giúp cặp đôi có cảm giác thư thái, mãn nguyện.
 
 \+ Giảm căng thẳng: Quan hệ tình dục cũng chính là cách làm giảm những loại hormone có phản ứng với tâm lý căng thẳng như cortisol và epinephrine. Tác dụng này còn có thể kéo dài sang ngày hôm sau.
 

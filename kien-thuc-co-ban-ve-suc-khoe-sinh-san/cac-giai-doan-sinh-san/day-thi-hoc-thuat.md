@@ -1,4 +1,4 @@
-# Dậy thì
+# Dậy thì (Học Thuật)
 
 Dậy thì là quá trình thay đổi thể chất qua đó [cơ thể](https://vi.wikipedia.org/wiki/C%C6%A1_th%E1%BB%83_ng%C6%B0%E1%BB%9Di) của một [đứa trẻ](https://vi.wikipedia.org/wiki/Tr%E1%BA%BB_em) thành một cơ thể [trưởng thành](https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_l%E1%BB%9Bn) có khả năng [sinh sản hữu tính](https://vi.wikipedia.org/wiki/Sinh_s%E1%BA%A3n_h%E1%BB%AFu_t%C3%ADnh). Nó được bắt đầu bởi [các](https://vi.wikipedia.org/wiki/N%E1%BB%99i_ti%E1%BA%BFt_t%E1%BB%91) tín hiệu [nội tiết tố](https://vi.wikipedia.org/wiki/N%E1%BB%99i_ti%E1%BA%BFt_t%E1%BB%91) từ [não](https://vi.wikipedia.org/wiki/N%C3%A3o) đến [tuyến sinh dục](https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFn_sinh_d%E1%BB%A5c): [buồng trứng](https://vi.wikipedia.org/wiki/Bu%E1%BB%93ng_tr%E1%BB%A9ng) ở con gái và [tinh hoàn](https://vi.wikipedia.org/wiki/Tinh_ho%C3%A0n) ở con trai. Để đáp ứng với các tín hiệu này, các tuyến sinh dục sản xuất hormone kích thích [ham muốn](https://vi.wikipedia.org/wiki/Ham_mu%E1%BB%91n_t%C3%ACnh_d%E1%BB%A5c) , sự tăng trưởng, chức năng , sự biến đổi của não, [xương](https://vi.wikipedia.org/wiki/X%C6%B0%C6%A1ng), [cơ](https://vi.wikipedia.org/wiki/C%C6%A1_\(sinh_h%E1%BB%8Dc\)), [máu](https://vi.wikipedia.org/wiki/M%C3%A1u), [da](https://vi.wikipedia.org/wiki/Da), [tóc](https://vi.wikipedia.org/wiki/T%C3%B3c), [vú](https://vi.wikipedia.org/wiki/V%C3%BA) và [các cơ quan sinh dục](https://vi.wikipedia.org/wiki/C%C6%A1_quan_sinh_d%E1%BB%A5c). Tăng trưởng thể chất - [chiều cao](https://vi.wikipedia.org/wiki/Chi%E1%BB%81u_cao) và khối lượng cơ thể tăng mạnh trong nửa đầu tuổi dậy thì , được hoàn thành khi cơ thể trưởng thành được phát triển hoàn toàn. Cho đến khi hoàn toàn trưởng thành về khả năng sinh sản, sự khác biệt về thể chất trước tuổi dậy thì giữa bé trai và bé gái là cơ quan sinh dục bên ngoài.
 
@@ -47,6 +47,12 @@ Cơ thể tiếp tục phát triển và toàn bộ quá trình dậy thì hoàn
 Trong giai đoạn dậy thì, các bé gái thường cao trung bình 7–8 cm/năm, và đạt đỉnh điểm khi kỳ kinh đầu tiên xuất hiện. Trẻ thường dừng cao khoảng 2 năm sau khi có kinh.
 
 Bé gái sẽ cao thêm khoảng 25–35 cm sau khi dậy thì.
+
+***
+
+## Bé trai và bé gái dậy thì như thế nào (Video)
+
+{% embed url="https://www.youtube.com/watch?v=LSUq31UpmkQ" %}
 
 ## Tham khảo
 

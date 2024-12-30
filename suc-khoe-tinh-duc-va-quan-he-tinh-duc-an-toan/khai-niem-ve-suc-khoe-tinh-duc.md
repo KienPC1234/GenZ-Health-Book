@@ -1,4 +1,8 @@
 ---
+description: >-
+  Sức khỏe tình dục là trạng thái thoải mái về thể chất, tỉnh thần và xã hội
+  liên quan đến tình dục, không chỉ đơn thuần là không có bệnh tật hay rối loạn
+  chức năng về tình dục.
 cover: ../.gitbook/assets/suc-khoe-tinh-duc-la-gi-nguyen-n.png
 coverY: 14.318912237329918
 ---

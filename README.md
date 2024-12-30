@@ -1,12 +1,12 @@
 ---
 icon: house
 description: Nơi cung cấp kiến thức sức khỏe sinh sản và tình dục cho thế hệ trẻ
-cover: .gitbook/assets/Suc-khoe-sinh-san-00 (1).png
-coverY: -123.56266666666666
+cover: .gitbook/assets/a560a33c-c676-11ef-a032-0242ac110009.png
+coverY: 2
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

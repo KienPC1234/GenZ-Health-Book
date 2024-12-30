@@ -24,7 +24,7 @@
 
 ## Sức Khỏe Tình Dục và Quan Hệ Tình Dục An Toàn
 
-* [Khái Niệm về Sức Khỏe Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/khai-niem-ve-suc-khoe-tinh-duc.md)
+* [Đại Cương về Sức Khỏe Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/khai-niem-ve-suc-khoe-tinh-duc.md)
 * [Giới Thiệu về Quan Hệ Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/gioi-thieu-ve-quan-he-tinh-duc.md)
 * [Quyền Lợi và Trách Nhiệm trong Quan Hệ Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/quyen-loi-va-trach-nhiem-trong-quan-he-tinh-duc.md)
 * [Tình Dục và Đồng Thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/README.md)
@@ -89,7 +89,7 @@
 * [Các câu hỏi về tình dục và phòng tránh](cau-hoi-thuong-gap-faq/cac-cau-hoi-ve-tinh-duc-va-phong-tranh.md)
 * [Tư vấn và giải đáp thắc mắc](cau-hoi-thuong-gap-faq/tu-van-va-giai-dap-thac-mac.md)
 
-## Page và Tin Tức
+## Group và Tin Tức
 
-* [Page Chia Sẻ Kinh Nghiệm Và Tin Tức Mới Nhất về Sức Khỏe Sinh Sản](page-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
-* [Câu chuyện từ học sinh, chuyên gia sức khỏe](page-va-tin-tuc/cau-chuyen-tu-hoc-sinh-chuyen-gia-suc-khoe.md)
+* [Page Chia Sẻ Kinh Nghiệm Và Tin Tức Mới Nhất về Sức Khỏe Sinh Sản](group-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
+* [Câu chuyện từ học sinh, chuyên gia sức khỏe](group-va-tin-tuc/cau-chuyen-tu-hoc-sinh-chuyen-gia-suc-khoe.md)

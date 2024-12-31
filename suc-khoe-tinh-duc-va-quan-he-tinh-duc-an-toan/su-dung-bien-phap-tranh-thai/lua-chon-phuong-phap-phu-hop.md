@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/3-8.png
+coverY: -56
+---
+
 # Lựa chọn phương pháp phù hợp
 
 ## 1. Đặc điểm khác nhau của các loại thuốc tránh thai

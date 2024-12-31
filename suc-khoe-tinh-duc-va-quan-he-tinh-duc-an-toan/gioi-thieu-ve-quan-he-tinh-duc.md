@@ -21,20 +21,13 @@ Quan hệ tình dục đều đặn và lành mạnh có thể mang lại nhiề
   * Nhận thức tốt hơn, tích cực hơn về hình ảnh của bản thân.
   * Đời sống tình dục hòa hợp giúp các cặp đôi có cảm giác hạnh phúc hơn.
   * Tăng cơ hội gắn kết: Khi quan hệ tình dục, não sẽ giải phóng ra nhiều loại hormone, bao gồm cả endorphin có tác dụng giảm bớt cảm giác cáu gắt hay chán nản. Bên cạnh đó, hormone oxytocin cũng được giải phóng từ não khi quan hệ tình dục, giúp cặp đôi có cảm giác thư thái, mãn nguyện.
-
-\+ Giảm căng thẳng: Quan hệ tình dục cũng chính là cách làm giảm những loại hormone có phản ứng với tâm lý căng thẳng như cortisol và epinephrine. Tác dụng này còn có thể kéo dài sang ngày hôm sau.
-
-\+ Tăng chất lượng giấc ngủ: Hoạt động quan hệ tình dục sẽ kích thích cơ thể giải phóng prolactin. Đây chính là một loại hormone giúp bạn có một giấc ngủ ngon.
-
+  * Giảm căng thẳng: Quan hệ tình dục cũng chính là cách làm giảm những loại hormone có phản ứng với tâm lý căng thẳng như cortisol và epinephrine. Tác dụng này còn có thể kéo dài sang ngày hôm sau.
+  * Tăng chất lượng giấc ngủ: Hoạt động quan hệ tình dục sẽ kích thích cơ thể giải phóng prolactin. Đây chính là một loại hormone giúp bạn có một giấc ngủ ngon.
 * Hoạt động tình dục thường xuyên cùng góp phần tăng cường sức khỏe thể chất:
-
-\+ Giúp bạn có thể lực tốt hơn: Khi hoạt động tình dục, bạn cũng phải tiêu hao lượng calo tương đương với một số bài tập thể dục chạy bộ, leo cầu thang,... Do đó, quan hệ tình dục cũng có thể coi như một hình thực tập luyện, giúp bạn tăng cường thể lực. Với nam giới, hoạt động này giúp săn chắc cơ bụng và cơ vùng chậu. Với nữ giới, hoạt động tình dục giúp chị em nâng cao khả năng kiểm soát bàng quang.
-
-\+ Tốt cho não bộ, tăng cường miễn dịch và hỗ trợ giảm đau.
-
-\+ Giảm cân: Nếu bạn quan hệ trong khoảng 30 phút, cơ thể đốt cháy khoảng 200 calo, từ đó hỗ trợ giảm cân hiệu quả.
-
-\+ Tốt cho sức khỏe tim mạch: Khi tiếp xúc thân mật có thể làm giãn mạch máu, thúc đẩy quá trình vận chuyển oxy và dưỡng chất đến khắp cơ thể. Từ đó, có thể cải thiện sức khỏe tim mạch.
+  * Giúp bạn có thể lực tốt hơn: Khi hoạt động tình dục, bạn cũng phải tiêu hao lượng calo tương đương với một số bài tập thể dục chạy bộ, leo cầu thang,... Do đó, quan hệ tình dục cũng có thể coi như một hình thực tập luyện, giúp bạn tăng cường thể lực. Với nam giới, hoạt động này giúp săn chắc cơ bụng và cơ vùng chậu. Với nữ giới, hoạt động tình dục giúp chị em nâng cao khả năng kiểm soát bàng quang.
+  * Tốt cho não bộ, tăng cường miễn dịch và hỗ trợ giảm đau.
+  * Giảm cân: Nếu bạn quan hệ trong khoảng 30 phút, cơ thể đốt cháy khoảng 200 calo, từ đó hỗ trợ giảm cân hiệu quả.
+  * Tốt cho sức khỏe tim mạch: Khi tiếp xúc thân mật có thể làm giãn mạch máu, thúc đẩy quá trình vận chuyển oxy và dưỡng chất đến khắp cơ thể. Từ đó, có thể cải thiện sức khỏe tim mạch.
 
 ***
 
@@ -89,9 +82,4 @@ Các cặp đôi nên trao đổi cởi mở về nhu cầu thực sự của nh
 ## Tham Khảo
 
 1. [https://medlatec.vn/tin-tuc/cac-buoc-quan-he-tinh-duc-va-nhung-dieu-can-luu-y](https://medlatec.vn/tin-tuc/cac-buoc-quan-he-tinh-duc-va-nhung-dieu-can-luu-y)
-2. [https://www.vinmec.com/vie/bai-viet/12-loi-khuyen-thoi-diem-va-vi-tri-de-lam-chuyen-ay-vi](https://www.vinmec.com/vie/bai-viet/12-loi-khuyen-thoi-diem-va-vi-tri-de-lam-chuyen-ay-vi)
-
-\
-
-
-\
+2. [https://www.vinmec.com/vie/bai-viet/12-loi-khuyen-thoi-diem-va-vi-tri-de-lam-chuyen-ay-vi](https://www.vinmec.com/vie/bai-viet/12-loi-khuyen-thoi-diem-va-vi-tri-de-lam-chuyen-ay-vi)\

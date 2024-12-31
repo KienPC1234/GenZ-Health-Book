@@ -29,7 +29,7 @@
 * [Quyền Lợi và Trách Nhiệm trong Quan Hệ Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/quyen-loi-va-trach-nhiem-trong-quan-he-tinh-duc.md)
 * [Tình Dục và Đồng Thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/README.md)
   * [Khái niệm về đồng thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/khai-niem-ve-dong-thuan.md)
-  * [Tầm quan trọng của đồng thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/tam-quan-trong-cua-dong-thuan.md)
+  * [Thế nào gọi là tình dục đồng thuận?](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/tam-quan-trong-cua-dong-thuan.md)
 * [Sử Dụng Biện Pháp Tránh Thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/README.md)
   * [Các phương pháp tránh thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/cac-phuong-phap-tranh-thai.md)
   * [Lựa chọn phương pháp phù hợp](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/lua-chon-phuong-phap-phu-hop.md)

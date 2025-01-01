@@ -50,7 +50,7 @@
   * [Trichomoniasis](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/trichomoniasis.md)
 * [Bệnh Liên Quan Đến Sinh Sản và Vô Sinh](benh-tinh-duc-va-suc-khoe-sinh-san/benh-lien-quan-den-sinh-san-va-vo-sinh/README.md)
   * [Vô sinh nam và nữ](benh-tinh-duc-va-suc-khoe-sinh-san/benh-lien-quan-den-sinh-san-va-vo-sinh/vo-sinh-nam-va-nu.md)
-  * [Polycystic Ovary Syndrome (PCOS)](benh-tinh-duc-va-suc-khoe-sinh-san/benh-lien-quan-den-sinh-san-va-vo-sinh/polycystic-ovary-syndrome-pcos.md)
+  * [Hội chứng Buồng trứng Đa nang (PCOS)](benh-tinh-duc-va-suc-khoe-sinh-san/benh-lien-quan-den-sinh-san-va-vo-sinh/polycystic-ovary-syndrome-pcos.md)
   * [Lạc nội mạc tử cung](benh-tinh-duc-va-suc-khoe-sinh-san/benh-lien-quan-den-sinh-san-va-vo-sinh/lac-noi-mac-tu-cung.md)
 * [Các Bệnh Phụ Khoa và Nam Khoa](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-phu-khoa-va-nam-khoa/README.md)
   * [U xơ tử cung](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-phu-khoa-va-nam-khoa/u-xo-tu-cung.md)
@@ -90,5 +90,5 @@
 
 ## Group và Tin Tức
 
-* [Page Chia Sẻ Kinh Nghiệm Và Tin Tức Mới Nhất về Sức Khỏe Sinh Sản](page-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
+* [Group Chia Sẻ Kinh Nghiệm Và Tin Tức Mới Nhất về Sức Khỏe Sinh Sản](page-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
 * [Câu chuyện từ học sinh, chuyên gia sức khỏe](page-va-tin-tuc/cau-chuyen-tu-hoc-sinh-chuyen-gia-suc-khoe.md)

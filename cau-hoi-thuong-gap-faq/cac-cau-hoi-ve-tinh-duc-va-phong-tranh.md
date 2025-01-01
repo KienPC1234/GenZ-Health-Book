@@ -14,9 +14,7 @@ Có thể nhiều cha mẹ nghĩ, **tình dục** là một vấn đề cực k�
 
 Để đảm bảo trẻ có những hiểu biết nhất định khi bước vào tuổi vị thành niên, các chuyên gia khuyên cha mẹ nên bắt đầu trao đổi về [sức khỏe tình dục](https://medlatec.vn/tin-tuc/nhung-cau-hoi-thu-vi-ve-suc-khoe-tinh-duc-s195-n18181) khi trẻ chuẩn bị dậy thì hoặc độ tuổi thích hợp là 11 - 12 tuổi. Bạn không cần phải bất ngờ với độ tuổi này, không quá sớm để trẻ có những hiểu biết về tình dục. Điều này sẽ giúp ít gặp rủi ro về vấn này, nhất là việc trẻ quan hệ quá sớm hoặc mang thai ngoài ý muốn, mắc các bệnh truyền lây,…
 
-![sức khỏe tình dục](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-1.jpg)
-
-_Nói chuyện về sức khỏe tình dục khi trẻ  sắp bước vào tuổi dậy thì_
+![Nói chuyện về sức khỏe tình dục khi trẻ  sắp bước vào tuổi dậy thì](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-1.jpg)
 
 Để nuôi dạy con trưởng thành chưa bao giờ là dễ dàng đối với phụ huynh trong cuộc sống ngày nay. Quan tâm đến trẻ nhiều hơn và sớm can thiệp sức khỏe tình dục lành mạnh là cách mà cha mẹ bảo vệ trẻ, hỗ trợ trẻ tiếp nhận những kiến thức đúng đắn và có hiểu rõ về ranh giới trong các mối quan hệ.
 
@@ -28,9 +26,7 @@ Tuy là một trong những nhu cầu thiết yếu của con người nhưng kh
 
 Tiến sĩ tâm lý học Trần Thành Nam, giảng viên trường Đại học Quốc gia Hà Nội cùng các cộng sự đã tiến hành một nghiên cứu về độ tuổi [quan hệ tình dục](https://medlatec.vn/tin-tuc/the-nao-la-quan-he-tinh-duc-an-toan-va-1-so-dieu-cac-cap-doi-can-luu-y-s195-n20033) lần đầu tiên, kết quả cho những con số thật bất ngờ. 10%  học sinh đã từng quan hệ tình dục khi mới học hết lớp 9, 39% đối với học sinh học hết lớp 12. Hầu hết đều thừa nhận không sử dụng biện pháp phòng tránh thai hoặc sử dụng các hình thức thiếu khoa học (uống nước chanh, rửa cơ quan sinh dục bằng nước chanh sau khi quan hệ,…).
 
-![sức khỏe tình dục](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-2.jpg)
-
-_Quan hệ tình dục đang có xu hướng trẻ hóa ở Việt Nam_
+![Quan hệ tình dục đang có xu hướng trẻ hóa ở Việt Nam](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-2.jpg)
 
 Với việc thiếu hiểu biết về sức khỏe tình dục đã khiến cho trẻ ở Việt Nam ngày càng “yêu” sớm và quan hệ không đúng cách dẫn đến những hậu quả khó lường.
 
@@ -46,9 +42,7 @@ Chúng ta luôn nói đến từ “nhạy cảm” nhưng thật ra đó chỉ 
 
 Tuy nhiên thời gian “ân ái” trong một lần của mỗi người khác nhau, phụ thuộc vào thời gian “lên đỉnh” và sức khỏe của mỗi người. Theo nhiều nghiên cứu, thời gian đạt trạng thái cực khoái ở nữ giới là 7 - 9 phút, còn nam giới thì không được vậy, có nhiều người đã [xuất tinh](https://medlatec.vn/tin-tuc/nhung-dieu-ban-nen-biet-ve-hien-tuong-xuat-tinh-o-nam-gioi-s195-n18209) sau khi quan hệ được 2 - 3 phút. Điều đó khiến bạn tình bị hụt hẫng và không thỏa mãn.&#x20;
 
-![sức khỏe tình dục](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-3.jpg)
-
-_Hiểu biết về tình dục sẽ giúp của cuộc “ân ái” của bạn thêm hưng phấn_
+![Hiểu biết về tình dục sẽ giúp của cuộc “ân ái” của bạn thêm hưng phấn](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-3.jpg)
 
 Thông thương với một người sức khỏe ổn định và đang trong thời kỳ “tràn đầy sinh lực” thì làm tình 5 đến 10 phút mỗi ngày sẽ rất tốt cho sức khỏe. Đối với các cặp đôi, thời gian lý tưởng cho mỗi cuộc vui nên có sự trao đổi từ cả hai. Thường xuyên hỏi bạn tình rằng cô ấy có “lên đỉnh” hay không, khi cả hai cùng thích thú thì thời gian bao lâu cũng hợp lý.
 
@@ -60,9 +54,7 @@ Làm tình lâu và nhiều thì có tốt hay không? Nhiều khi việc làm t
 
 Đến một độ tuổi nhất định, ai cũng cần phải thỏa mãn những nhu cầu của bản thân, trong đó tình dục có thể coi là điều không thể bỏ qua. Tuy nhiên nhu cầu của mỗi người về tình dục khác nhau và giảm dần khi bước sang tuổi trung niên. Bên cạnh đó, nhu cầu quan hệ còn phụ thuộc sức khỏe của mỗi người.
 
-![sức khỏe tình dục](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-4.jpg)
-
-_Nhu cầu tình dục thường giảm dần khi bước sang độ tuổi trung niên_
+![Nhu cầu tình dục thường giảm dần khi bước sang độ tuổi trung niên](https://login.medlatec.vn/ImagePath/images/20200516/20200516_suc-khoe-tinh-duc-4.jpg)
 
 Với nhiều nhà khoa học thì việc quan hệ 3 lần trong một tuần được coi là hợp lý, giúp các cặp đôi đảm bảo sức khỏe và tinh thần cũng như thỏa mãn nhu cầu của bản thân. Tuy nhiên đó chỉ là về mặt lý thuyết, thực tế số lần quan hệ của các cặp đôi có nhiều khác nhau. Nhiều vợ chồng son thừa nhận rằng họ làm tình mỗi ngày, có nghĩa số lần quan hệ là 7 lần/ 1 tuần. Con số này có thể coi là kinh khủng với những người có tuổi còn với độ tuổi thanh niên, thời kỳ xung mãn nhất hoặc những người có nhu cầu cao thì con số này có thể thay đổi, đa số là lớn hơn.&#x20;
 

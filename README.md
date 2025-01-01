@@ -52,7 +52,7 @@ Việc thiếu kiến thức về sức khỏe sinh sản có thể dẫn đến
 
 ## Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc cần tư vấn, đừng ngần ngại liên hệ với chúng tôi qua email: [contact@genzhealthbook.vn](mailto:contact@genzhealthbook.vn) hoặc qua số điện thoại: 0123 456 789.
+Nếu bạn có bất kỳ câu hỏi hoặc cần tư vấn, đừng ngần ngại liên hệ với chúng tôi qua email: kienpc872009@gmail.com hoặc qua group Facebook [**Decoded Wellness** ](https://web.facebook.com/groups/461089620152175)
 
 ***
 

@@ -2,6 +2,8 @@
 description: >-
   Mang thai ngoài ý muốn là khi việc mang thai không đúng thời điểm hoặc không
   mong muốn. Vậy cần làm gì trong trường hợp này? Hãy cùng tìm hiểu!
+cover: ../../.gitbook/assets/mang-thai-ngoai-y-muon-1.png
+coverY: -153
 ---
 
 # Mang thai ngoài ý muốn

@@ -61,13 +61,13 @@ Video nhấn mạnh tầm quan trọng của việc khám sức khỏe sinh sả
 Dưới đây là một số tổ chức và trang web cung cấp thông tin đáng tin cậy về sức khỏe sinh sản:
 
 - **Tổ chức Y tế Thế giới (WHO)**: Cung cấp thông tin toàn cầu về sức khỏe sinh sản, bao gồm các hướng dẫn và nghiên cứu mới nhất.  
-  [**Truy cập WHO**](https://www.who.int/health-topics/reproductive-health)
+  [**Truy cập WHO**](https://www.who.int)
 
 - **Quỹ Dân số Liên Hợp Quốc (UNFPA)**: Tập trung vào các vấn đề sức khỏe sinh sản và quyền lợi của phụ nữ và trẻ em.  
-  [**Truy cập UNFPA**](https://www.unfpa.org/reproductive-health)
+  [**Truy cập UNFPA**](https://www.unfpa.org)
 
 - **Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC)**: Cung cấp thông tin về sức khỏe sinh sản, bao gồm các bệnh lây truyền qua đường tình dục và các biện pháp phòng ngừa.  
-  [**Truy cập CDC**](https://www.cdc.gov/reproductivehealth/index.html)
+  [**Truy cập CDC**](https://www.cdc.gov)
 
 - **FHI 360**: Tổ chức phi lợi nhuận chuyên về sức khỏe và phát triển, cung cấp các tài liệu và nghiên cứu về sức
   [**Truy cập FHI 360**](https://www.fhi360.org)

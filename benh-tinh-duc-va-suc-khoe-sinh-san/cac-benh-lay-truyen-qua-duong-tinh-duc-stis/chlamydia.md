@@ -93,6 +93,12 @@ Những trường hợp bị nhiễm trùng nghiêm trọng như viêm vùng ch�
 
 ***
 
+## TOP các dấu hiệu nhận biết sớm bệnh Chlamydia (Video)
+
+{% embed url="https://www.youtube.com/watch?v=v9GFmF2hrXU" %}
+
+***
+
 ## Tham khảo
 
 1. [https://medlatec.vn/tin-tuc/chlamydia-la-gi-va-nhung-dieu-nen-biet-ve-benh-s74-n28962](https://medlatec.vn/tin-tuc/chlamydia-la-gi-va-nhung-dieu-nen-biet-ve-benh-s74-n28962)

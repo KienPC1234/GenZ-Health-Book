@@ -41,7 +41,9 @@ con nếu gặp trứng và thụ tinh
 
 • Tâm sinh lý tuổi dậy thì ở nữ có đặc điểm:“muốn làm người lớn”; tự lập trong công việc và các mối quan hệ; hay mơ mộng, thích làm dáng, thích giao lưu với bạn bè nhất là bạn khác giới; bắt đầu có suy nghĩ về tình yêu, về hạnh phúc lứa đôi; có sự sáo trộn tâm lý, thay đổi tính khí, hay bực tức, lo lắng; ảnh hưởng của bạn bè cùng trang lứa đóng vai trò quan trọng; trí tuệ liên tục phát triển.
 
-• Cơ quan sinh dục phát triển mạnh, xuất hiện kinh nguyệt lần đầu; hoóc môn sinh dục nữ tăng trưởng; có cảm xúc tình dục/nhu cầu hoạt động tình dục và nếu có sinh hoạt tình dục thì các em gái có thể mang thai ## **Câu 6: Tuổi dậy thì nam và nữ có phải là tuổi “nổi loạn” không?**
+• Cơ quan sinh dục phát triển mạnh, xuất hiện kinh nguyệt lần đầu; hoóc môn sinh dục nữ tăng trưởng; có cảm xúc tình dục/nhu cầu hoạt động tình dục và nếu có sinh hoạt tình dục thì các em gái có thể mang thai&#x20;
+
+## **Câu 6: Tuổi dậy thì nam và nữ có phải là tuổi “nổi loạn” không?**
 
 **Trả lời:**
 
@@ -107,9 +109,15 @@ con nếu gặp trứng và thụ tinh
 
 **Trả lời:**
 
-• Lúc bình thường mô xốp của dương vật chỉ chứa một lượng máu rất ít nên nhỏ và mềm. Khi có một kích thích tình dục nào đó máu sẽ được đưa đến nhiều hơn, làm cho dương vật cương cứng lên và làm tăng nhu cầu quan hệ tình dục## **Câu 15: Mộng tinh, di tinh là gì? Mộng tinh và di tinh có hại tới sức khoẻ không?Trả lời:**
+• Lúc bình thường mô xốp của dương vật chỉ chứa một lượng máu rất ít nên nhỏ và mềm. Khi có một kích thích tình dục nào đó máu sẽ được đưa đến nhiều hơn, làm cho dương vật cương cứng lên và làm tăng nhu cầu quan hệ tình dục
 
-• Mộng tinh là xuất tinh không chủ động xảy ra trong khi ngủ (thường vào ban đêm) là hiện tượng cơ thể tự giải phóng tinh trùng và tinh dịch. Đây là hiện tượng sinh lý tự nhiên thường gặp ở nam tuổi dậy thì, do tinh hoàn đã bắt đầu sản xuất ra tinh trùng. Mộng tinh không ảnh hưởng gì đến sức khoẻ• Di tinh là hiện tượng tự động xuất tinh lúc thức, khi có những kích thích tình dục như nghĩ về bạn gái/người yêu. Di tinh cũng thường xuyên xảy ra đối với các em trai tuổi dạy thì. Nhưng nếu di tinh xảy ra nhiều lần trong một ngày thì đó là hiện tượng bệnh lý, nguyên nhân có thể do viêm tuyến tiền liệt, túi tinh hay niệu đạo. Cần đến cơ sở y tế để được khám và điều trị## **Câu 16: Các em nam ở tuổi dậy thì có nên mặc quần lót (quần sịp) không? và các em cần vệ sinh cơ quan sinh dục như thế nào?**
+## **Câu 15: Mộng tinh, di tinh là gì? Mộng tinh và di tinh có hại tới sức khoẻ không?**
+
+**Trả lời:**
+
+• Mộng tinh là xuất tinh không chủ động xảy ra trong khi ngủ (thường vào ban đêm) là hiện tượng cơ thể tự giải phóng tinh trùng và tinh dịch. Đây là hiện tượng sinh lý tự nhiên thường gặp ở nam tuổi dậy thì, do tinh hoàn đã bắt đầu sản xuất ra tinh trùng. Mộng tinh không ảnh hưởng gì đến sức khoẻ• Di tinh là hiện tượng tự động xuất tinh lúc thức, khi có những kích thích tình dục như nghĩ về bạn gái/người yêu. Di tinh cũng thường xuyên xảy ra đối với các em trai tuổi dạy thì. Nhưng nếu di tinh xảy ra nhiều lần trong một ngày thì đó là hiện tượng bệnh lý, nguyên nhân có thể do viêm tuyến tiền liệt, túi tinh hay niệu đạo. Cần đến cơ sở y tế để được khám và điều trị
+
+## **Câu 16: Các em nam ở tuổi dậy thì có nên mặc quần lót (quần sịp) không? và các em cần vệ sinh cơ quan sinh dục như thế nào?**
 
 **Trả lời:**
 
@@ -181,7 +189,7 @@ họ bộc lộ tình cảm
 
 ## Câu 25: Tuổi VTN có nên yêu không? khi nào nên yêu và không nên yêu ?
 
-## **Trả lời**
+**Trả lời**
 
 •Tuổi VTN có thể yêu, vì đây là một quy luật tất yếu trong đời sống tình cảm con người; VTN có quyền yêu và được yêu•Tuy nhiên, khi nào nên yêu: là khi các bạn đã học xong, tự lập trong cuộc sống; Khi có sự rung cảm của 2 tâm hồn đồng điệu, hiểu sâu sắc tâm tư , nguyện vọng, sở thích, nhu cầu, hứng thú của nhau; Xác định cần giúp đỡ, chia sẻ, động viên nhau vượt qua mọi khó khăn của cuộc sống để chuẩn bị cho tương lai; Hai người cùng biết tôn trọng và giữ gìn cho nhau.•VTN chưa nên yêu khi còn đang học phổ thông, chưa đủ chín chắn để chọn người yêu phù hợp; khi chưa có sự rung cảm, chưa hiểu hết về nhau; chưa có nghề nghiệp, kinh tế còn phụ thuộc; chưa sẵn sàng cho cuộc sống gia đình riêng.
 

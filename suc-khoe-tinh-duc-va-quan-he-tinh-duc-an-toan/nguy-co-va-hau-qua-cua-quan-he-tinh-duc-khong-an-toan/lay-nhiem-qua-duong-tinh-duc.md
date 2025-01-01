@@ -107,6 +107,8 @@ Các yếu tố có thể làm tăng nguy cơ mắc các bệnh lây truyền qu
 * Người trẻ tuổi: Người có sinh hoạt tình dục càng sớm càng có nguy cơ nhiễm bệnh cao hơn. Cụ thể như người trong độ tuổi từ 15- 24.
 * Lây truyền từ mẹ sang con: Một số bệnh lây truyền qua đường tình dục có thể truyền từ mẹ sang con khi mang thai hoặc sinh nở, ảnh hưởng nghiêm trọng đến sức khỏe của trẻ sơ sinh, thậm chí có thể gây tử vong.
 
+***
+
 ## Phương pháp chẩn đoán <a href="#phuong-phap-chan-doan" id="phuong-phap-chan-doan"></a>
 
 Để đưa ra phác đồ điều trị chính xác, hiệu quả, bác sĩ cần thực hiện một số biện pháp thăm khám lâm sàng và chẩn đoán cận lâm sàng như:
@@ -115,6 +117,8 @@ Các yếu tố có thể làm tăng nguy cơ mắc các bệnh lây truyền qu
 * Xét nghiệm máu
 * Xét nghiệm nước tiểu
 * Xét nghiệm dịch tiết
+
+***
 
 ## Biến chứng của bệnh lây truyền qua đường tình dục <a href="#bien-chung-cua-benh-lay-truyen-qua-duong-tinh-duc" id="bien-chung-cua-benh-lay-truyen-qua-duong-tinh-duc"></a>
 
@@ -127,6 +131,8 @@ Bệnh lây truyền qua đường tình dục rất dễ lây nhiễm, khó ch�
 * [Bệnh tim mạch](https://tamanhhospital.vn/benh-tim-mach/): Người nhiễm bệnh đường tình dục rất dễ mắc bệnh tim mạch do vi sinh vật đi vào máu và tấn công tim.
 * [Vô sinh](https://tamanhhospital.vn/vo-sinh/): Các bệnh lây qua đường sinh dục có thể làm tổn thương cơ quan sinh dục nam và nữ như: viêm tinh hoàn, viêm buồng tử cung, viêm tắc ống dẫn trứng… ảnh hưởng đến khả năng sinh sản, thậm chí là gây vô sinh.
 * [Ung thư](https://tamanhhospital.vn/ung-thu/): Một số loại ung thư ở cổ tử cung, trực tràng, dương vật có liên quan đến virus HPV.
+
+***
 
 ## Cách điều trị <a href="#cach-dieu-tri" id="cach-dieu-tri"></a>
 

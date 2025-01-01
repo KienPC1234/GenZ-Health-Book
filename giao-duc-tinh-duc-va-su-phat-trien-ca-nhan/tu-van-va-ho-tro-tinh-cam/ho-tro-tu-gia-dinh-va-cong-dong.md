@@ -3,6 +3,8 @@ description: >-
   Theo các bác sỹ, chuyên gia tâm lý, nếu con có thắc mắc về giới tính, phụ
   huynh nên trả lời thẳng thắn, chia sẻ để trang bị những kiến thức, kỹ năng
   quan trọng về sức khỏe sinh sản, giới tính...
+cover: ../../.gitbook/assets/173646-vna_potal_cong_doan_thanh.png
+coverY: 0
 ---
 
 # Hỗ trợ từ nhà trường, gia đình và cộng đồng

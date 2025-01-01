@@ -3,6 +3,8 @@ description: >-
   Sức khỏe sinh sản là một phần quan trọng trong chăm sóc sức khỏe cộng đồng.
   Việc hiểu biết và tiếp cận các tài liệu học tập về lĩnh vực này sẽ giúp nâng
   cao nhận thức và cải thiện chất lượng cuộc sống
+cover: ../../.gitbook/assets/image (3).png
+coverY: 0
 ---
 
 # Video, bài viết và nguồn thông tin đáng tin cậy

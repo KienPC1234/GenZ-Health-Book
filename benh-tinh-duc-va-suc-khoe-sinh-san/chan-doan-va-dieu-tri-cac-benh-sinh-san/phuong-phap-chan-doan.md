@@ -1,2 +1,0 @@
-# Phương pháp chẩn đoán
-

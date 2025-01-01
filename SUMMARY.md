@@ -38,6 +38,15 @@
   * [Mang thai ngoài ý muốn](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/mang-thai-ngoai-y-muon.md)
 * [Phòng Ngừa HIV/AIDS](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/phong-ngua-hiv-aids.md)
 
+## Giáo Dục Tình Dục và Sự Phát Triển Cá Nhân
+
+* [Giới Thiệu về Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/gioi-thieu-ve-giao-duc-tinh-duc.md)
+* [Tầm Quan Trọng của Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tam-quan-trong-cua-giao-duc-tinh-duc.md)
+* [Xây Dựng Mối Quan Hệ Lành Mạnh](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/xay-dung-moi-quan-he-lanh-manh.md)
+* [Tư Vấn và Hỗ Trợ Tình Cảm](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/README.md)
+  * [Các vấn đề về cảm xúc trong tuổi dậy thì](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/cac-van-de-ve-cam-xuc-trong-tuoi-day-thi.md)
+  * [Hỗ trợ từ nhà trường, gia đình và cộng đồng](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/ho-tro-tu-gia-dinh-va-cong-dong.md)
+
 ## Bệnh Tình Dục và Sức Khỏe Sinh Sản
 
 * [Các Bệnh Lây Truyền Qua Đường Tình Dục (STIs)](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-lay-truyen-qua-duong-tinh-duc-stis/README.md)
@@ -56,22 +65,6 @@
   * [U xơ tử cung](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-phu-khoa-va-nam-khoa/u-xo-tu-cung.md)
   * [Viêm nhiễm đường tiết niệu](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-phu-khoa-va-nam-khoa/viem-nhiem-duong-tiet-nieu.md)
   * [Rối loạn cương dương](benh-tinh-duc-va-suc-khoe-sinh-san/cac-benh-phu-khoa-va-nam-khoa/roi-loan-cuong-duong.md)
-* [Chẩn Đoán và Điều Trị Các Bệnh Sinh Sản](benh-tinh-duc-va-suc-khoe-sinh-san/chan-doan-va-dieu-tri-cac-benh-sinh-san/README.md)
-  * [Phương pháp chẩn đoán](benh-tinh-duc-va-suc-khoe-sinh-san/chan-doan-va-dieu-tri-cac-benh-sinh-san/phuong-phap-chan-doan.md)
-  * [Điều trị và thuốc](benh-tinh-duc-va-suc-khoe-sinh-san/chan-doan-va-dieu-tri-cac-benh-sinh-san/dieu-tri-va-thuoc.md)
-  * [Cách phòng ngừa bệnh](benh-tinh-duc-va-suc-khoe-sinh-san/chan-doan-va-dieu-tri-cac-benh-sinh-san/cach-phong-ngua-benh.md)
-
-## Giáo Dục Tình Dục và Sự Phát Triển Cá Nhân
-
-* [Giới Thiệu về Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/gioi-thieu-ve-giao-duc-tinh-duc.md)
-* [Tầm Quan Trọng của Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tam-quan-trong-cua-giao-duc-tinh-duc.md)
-* [Tự Tin và Nhận Thức Về Cơ Thể](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-tin-va-nhan-thuc-ve-co-the/README.md)
-  * [Thay đổi trong cơ thể khi trưởng thành](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-tin-va-nhan-thuc-ve-co-the/thay-doi-trong-co-the-khi-truong-thanh.md)
-  * [Chấp nhận bản thân và giới tính](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-tin-va-nhan-thuc-ve-co-the/chap-nhan-ban-than-va-gioi-tinh.md)
-* [Xây Dựng Mối Quan Hệ Lành Mạnh](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/xay-dung-moi-quan-he-lanh-manh.md)
-* [Tư Vấn và Hỗ Trợ Tình Cảm](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/README.md)
-  * [Các vấn đề về cảm xúc trong tuổi dậy thì](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/cac-van-de-ve-cam-xuc-trong-tuoi-day-thi.md)
-  * [Hỗ trợ từ gia đình và cộng đồng](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/ho-tro-tu-gia-dinh-va-cong-dong.md)
 
 ## Tài Nguyên và Hỗ Trợ
 

@@ -39,26 +39,33 @@ Bài viết tuyên truyền về tầm quan trọng của chăm sóc sức khỏ
 
 Bài viết cung cấp thông tin về sức khỏe sinh sản cho trẻ vị thành niên, giúp họ hiểu rõ hơn về cơ thể và các vấn đề liên quan. [Đọc thêm](https://syt.daknong.gov.vn/dan-so-khhgd/de-tre-vi-thanh-nien-hieu-hon-ve-suc-khoe-sinh-san.html)
 
-### Video Hướng Dẫn
+***
+
+## Video Hướng Dẫn
 
 #### Chăm sóc sức khỏe sinh sản cho phụ nữ
 
 Video cung cấp thông tin về các phương pháp chăm sóc sức khỏe sinh sản dành cho phụ nữ, giúp họ hiểu rõ hơn về cơ thể và cách duy trì sức khỏe.\
-[**Xem video**](https://www.youtube.com/watch?v=by7lSJJeE70)
 
 
+{% embed url="https://www.youtube.com/watch?v=by7lSJJeE70" %}
 
 #### Kỹ năng chăm sóc sức khỏe sinh sản tuổi vị thành niên
 
 Video chia sẻ các kỹ năng cần thiết để chăm sóc sức khỏe sinh sản cho tuổi vị thành niên, giúp họ tự tin và chủ động hơn trong việc bảo vệ sức khỏe của mình.\
-[**Xem video**](https://www.youtube.com/watch?v=x_5E9MQW0VA)
+
+
+{% embed url="https://www.youtube.com/watch?v=x_5E9MQW0VA" %}
 
 #### Tầm quan trọng của khám sức khỏe sinh sản
 
-Video nhấn mạnh tầm quan trọng của việc khám sức khỏe sinh sản trước khi tiến tới hôn nhân hoặc trước khi mang thai.\
-[**Xem video**](https://www.youtube.com/watch?v=yHaZlZG-1DI)
+Video nhấn mạnh tầm quan trọng của việc khám sức khỏe sinh sản trước khi tiến tới hôn nhân hoặc trước khi mang thai.
 
-### Nguồn Thông Tin Đáng Tin Cậy
+{% embed url="https://www.youtube.com/watch?v=yHaZlZG-1DI" %}
+
+***
+
+## Nguồn Thông Tin Đáng Tin Cậy
 
 Dưới đây là một số tổ chức và trang web cung cấp thông tin đáng tin cậy về sức khỏe sinh sản:
 
@@ -68,4 +75,6 @@ Dưới đây là một số tổ chức và trang web cung cấp thông tin đ�
   [**Truy cập UNFPA**](https://www.unfpa.org)
 * **Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC)**: Cung cấp thông tin về sức khỏe sinh sản, bao gồm các bệnh lây truyền qua đường tình dục và các biện pháp phòng ngừa.\
   [**Truy cập CDC**](https://www.cdc.gov)
-* **FHI 360**: Tổ chức phi lợi nhuận chuyên về sức khỏe và phát triển, cung cấp các tài liệu và nghiên cứu về sức [**Truy cập FHI 360**](https://www.fhi360.org)
+*   **FHI 360**: Tổ chức phi lợi nhuận chuyên về sức khỏe và phát triển, cung cấp các tài liệu và nghiên cứu về sức&#x20;
+
+    [**Truy cập FHI 360**](https://www.fhi360.org)

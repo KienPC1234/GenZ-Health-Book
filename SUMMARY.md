@@ -78,8 +78,7 @@
 ## Câu Hỏi Thường Gặp (FAQ)
 
 * [Các câu hỏi về sức khỏe sinh sản](cau-hoi-thuong-gap-faq/cac-cau-hoi-ve-suc-khoe-sinh-san.md)
-* [Các câu hỏi về tình dục và phòng tránh](cau-hoi-thuong-gap-faq/cac-cau-hoi-ve-tinh-duc-va-phong-tranh.md)
-* [Tư vấn và giải đáp thắc mắc](cau-hoi-thuong-gap-faq/tu-van-va-giai-dap-thac-mac.md)
+* [Những câu hỏi thú vị về sức khỏe tình dục](cau-hoi-thuong-gap-faq/cac-cau-hoi-ve-tinh-duc-va-phong-tranh.md)
 
 ## Group và Tin Tức
 

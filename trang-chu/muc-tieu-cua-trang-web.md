@@ -1,5 +1,7 @@
 ---
 icon: bullseye-arrow
+cover: ../.gitbook/assets/thi-truong-muc-tieu-la-gi-003.png
+coverY: -24
 ---
 
 # Mục Tiêu của Trang Web

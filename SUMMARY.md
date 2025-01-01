@@ -33,9 +33,8 @@
 * [Sử Dụng Biện Pháp Tránh Thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/README.md)
   * [Các phương pháp tránh thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/cac-phuong-phap-tranh-thai.md)
   * [Lựa chọn phương pháp phù hợp](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/lua-chon-phuong-phap-phu-hop.md)
-  * [Tác dụng phụ của các phương pháp tránh thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/tac-dung-phu-cua-cac-phuong-phap-tranh-thai.md)
 * [Nguy Cơ và Hậu Quả Của Quan Hệ Tình Dục Không An Toàn](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/README.md)
-  * [Lây nhiễm qua đường tình dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/lay-nhiem-qua-duong-tinh-duc.md)
+  * [Các bệnh lây nhiễm qua đường tình dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/lay-nhiem-qua-duong-tinh-duc.md)
   * [Mang thai ngoài ý muốn](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/mang-thai-ngoai-y-muon.md)
 * [Phòng Ngừa HIV/AIDS](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/phong-ngua-hiv-aids.md)
 

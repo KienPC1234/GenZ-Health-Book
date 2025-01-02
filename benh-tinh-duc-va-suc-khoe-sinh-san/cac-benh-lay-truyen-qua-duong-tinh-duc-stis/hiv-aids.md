@@ -93,6 +93,10 @@ Trên đây là những kiến thức cơ bản về HIV và AIDS các bản c�
 
 {% embed url="https://www.youtube.com/watch?v=q2YwS872kfc" %}
 
+***
+
+{% embed url="https://docs.google.com/forms/d/1AafybGveiEfEJTq2clByQyi9z1kRG8Lkl7yRVS1YXAo/viewform?edit_requested=true&fbclid=IwZXh0bgNhZW0CMTAAAR3wZgxN56QujYwhvxLSkSUg0M99hNkL58DQo68mqfr8Ns9ScP0rM0YYPbc_aem_PauW2VmPq-QPimX3Z0m7RQ" %}
+
 
 
 ***

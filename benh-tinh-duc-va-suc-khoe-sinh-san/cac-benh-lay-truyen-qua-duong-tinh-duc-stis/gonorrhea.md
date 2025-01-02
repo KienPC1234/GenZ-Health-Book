@@ -120,6 +120,12 @@ Ngoài ra, bệnh nhân mắc phải bệnh lậu cần có những thói quen s
 
 ***
 
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScqiGn1ifs3KPRtoI5MjyMg1a5ttUoEjn-IxYVjeANx4PYyag/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Bệnh lậu – Biểu hiện và cách điều trị (Video)
 
 {% embed url="https://www.youtube.com/watch?v=UESuu9fye1s" %}

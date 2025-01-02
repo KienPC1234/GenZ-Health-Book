@@ -52,7 +52,7 @@ Việc thiếu kiến thức về sức khỏe sinh sản có thể dẫn đến
 
 ## Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc cần tư vấn, đừng ngần ngại liên hệ với chúng tôi qua email: kienpc872009@gmail.com hoặc qua group Facebook [**Decoded Wellness** ](https://web.facebook.com/groups/461089620152175)
+Nếu bạn có bất kỳ câu hỏi hoặc cần tư vấn, đừng ngần ngại liên hệ với chúng tôi qua email: kienpc872009@gmail.com hoặc qua group Facebook [**Decoded Wellness** ](page-va-tin-tuc/page-chia-se-kinh-nghiem-va-tin-tuc-moi-nhat-ve-suc-khoe-sinh-san.md)
 
 ***
 

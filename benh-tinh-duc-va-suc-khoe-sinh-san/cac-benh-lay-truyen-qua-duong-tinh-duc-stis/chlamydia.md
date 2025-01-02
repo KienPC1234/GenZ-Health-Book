@@ -99,6 +99,10 @@ Những trường hợp bị nhiễm trùng nghiêm trọng như viêm vùng ch�
 
 ***
 
+{% embed url="https://forms.gle/pR2u6SPwMse9oEVH9" %}
+
+***
+
 ## Tham khảo
 
 1. [https://medlatec.vn/tin-tuc/chlamydia-la-gi-va-nhung-dieu-nen-biet-ve-benh-s74-n28962](https://medlatec.vn/tin-tuc/chlamydia-la-gi-va-nhung-dieu-nen-biet-ve-benh-s74-n28962)

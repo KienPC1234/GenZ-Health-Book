@@ -118,6 +118,12 @@ Hy vọng qua bài viết trên bạn đã hiểu rõ hơn cấu tạo hệ sinh
 
 ***
 
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdO8VroBOmADsn9nCI9u27gOTjD-zSC5T04YHJrsMlvRzCc4g/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham khảo
 
 1. [https://nhathuoclongchau.com.vn/bai-viet/tim-hieu-ve-cau-truc-va-sinh-ly-cua-he-sinh-duc-nam-va-nu.html](https://nhathuoclongchau.com.vn/bai-viet/tim-hieu-ve-cau-truc-va-sinh-ly-cua-he-sinh-duc-nam-va-nu.html)

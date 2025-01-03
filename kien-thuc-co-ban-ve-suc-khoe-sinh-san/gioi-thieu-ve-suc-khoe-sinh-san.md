@@ -41,6 +41,12 @@ Tỷ trọng khám chữa bệnh bảo hiểm y tế dành cho các dịch vụ 
 
 ***
 
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSerRcNEEzlevsk4MPPfHsDubITgY2eC2EsUYIP7JxIzbRFSfA/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham khảo
 
 1. WHO (2007) Global Strategy for Prevention and Control of Sexually Transmitted Infections 2006–2015, World Health Organization, Geneva [\[1\]](http://www.who.int/hiv/pub/toolkits/stis_strategy\[1]en.pdf)

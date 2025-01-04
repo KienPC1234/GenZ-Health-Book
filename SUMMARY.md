@@ -22,30 +22,30 @@
     * [Nữ](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc/nu.md)
     * [Nam](kien-thuc-co-ban-ve-suc-khoe-sinh-san/suc-khoe-sinh-san-va-ve-sinh-ca-nhan/cham-soc-co-quan-sinh-duc/nam.md)
 
-## Sức Khỏe Tình Dục và Quan Hệ Tình Dục An Toàn
+## Sức Khỏe Tình Dục và Quan Hệ Tình Dục An Toàn <a href="#sktd" id="sktd"></a>
 
-* [Đại Cương về Sức Khỏe Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/khai-niem-ve-suc-khoe-tinh-duc.md)
-* [Giới Thiệu về Quan Hệ Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/gioi-thieu-ve-quan-he-tinh-duc.md)
-* [Quyền Lợi và Trách Nhiệm trong Quan Hệ Tình Dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/quyen-loi-va-trach-nhiem-trong-quan-he-tinh-duc.md)
-* [Tình Dục và Đồng Thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/README.md)
-  * [Khái niệm về đồng thuận](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/khai-niem-ve-dong-thuan.md)
-  * [Thế nào gọi là tình dục đồng thuận?](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/tinh-duc-va-dong-thuan/tam-quan-trong-cua-dong-thuan.md)
-* [Sử Dụng Biện Pháp Tránh Thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/README.md)
-  * [Các phương pháp tránh thai](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/cac-phuong-phap-tranh-thai.md)
-  * [Lựa chọn phương pháp phù hợp](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/su-dung-bien-phap-tranh-thai/lua-chon-phuong-phap-phu-hop.md)
-* [Nguy Cơ và Hậu Quả Của Quan Hệ Tình Dục Không An Toàn](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/README.md)
-  * [Các bệnh lây nhiễm qua đường tình dục](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/lay-nhiem-qua-duong-tinh-duc.md)
-  * [Mang thai ngoài ý muốn](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/mang-thai-ngoai-y-muon.md)
-* [Phòng Ngừa HIV/AIDS](suc-khoe-tinh-duc-va-quan-he-tinh-duc-an-toan/phong-ngua-hiv-aids.md)
+* [Đại Cương về Sức Khỏe Tình Dục](sktd/khai-niem-ve-suc-khoe-tinh-duc.md)
+* [Giới Thiệu về Quan Hệ Tình Dục](sktd/gioi-thieu-ve-quan-he-tinh-duc.md)
+* [Quyền Lợi và Trách Nhiệm trong Quan Hệ Tình Dục](sktd/quyen-loi-va-trach-nhiem-trong-quan-he-tinh-duc.md)
+* [Tình Dục và Đồng Thuận](sktd/tinh-duc-va-dong-thuan/README.md)
+  * [Khái niệm về đồng thuận](sktd/tinh-duc-va-dong-thuan/khai-niem-ve-dong-thuan.md)
+  * [Thế nào gọi là tình dục đồng thuận?](sktd/tinh-duc-va-dong-thuan/tam-quan-trong-cua-dong-thuan.md)
+* [Sử Dụng Biện Pháp Tránh Thai](sktd/su-dung-bien-phap-tranh-thai/README.md)
+  * [Các phương pháp tránh thai](sktd/su-dung-bien-phap-tranh-thai/cac-phuong-phap-tranh-thai.md)
+  * [Lựa chọn phương pháp phù hợp](sktd/su-dung-bien-phap-tranh-thai/lua-chon-phuong-phap-phu-hop.md)
+* [Nguy Cơ và Hậu Quả Của Quan Hệ Tình Dục Không An Toàn](sktd/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/README.md)
+  * [Các bệnh lây nhiễm qua đường tình dục](sktd/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/lay-nhiem-qua-duong-tinh-duc.md)
+  * [Mang thai ngoài ý muốn](sktd/nguy-co-va-hau-qua-cua-quan-he-tinh-duc-khong-an-toan/mang-thai-ngoai-y-muon.md)
+* [Phòng Ngừa HIV/AIDS](sktd/phong-ngua-hiv-aids.md)
 
-## Giáo Dục Tình Dục và Sự Phát Triển Cá Nhân
+## Giáo Dục Tình Dục và Sự Phát Triển Cá Nhân <a href="#gdtd" id="gdtd"></a>
 
-* [Giới Thiệu về Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/gioi-thieu-ve-giao-duc-tinh-duc.md)
-* [Tầm Quan Trọng của Giáo Dục Tình Dục](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tam-quan-trong-cua-giao-duc-tinh-duc.md)
-* [Xây Dựng Mối Quan Hệ Lành Mạnh](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/xay-dung-moi-quan-he-lanh-manh.md)
-* [Tư Vấn và Hỗ Trợ Tình Cảm](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/README.md)
-  * [Các vấn đề về cảm xúc trong tuổi dậy thì](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/cac-van-de-ve-cam-xuc-trong-tuoi-day-thi.md)
-  * [Hỗ trợ từ nhà trường, gia đình và cộng đồng](giao-duc-tinh-duc-va-su-phat-trien-ca-nhan/tu-van-va-ho-tro-tinh-cam/ho-tro-tu-gia-dinh-va-cong-dong.md)
+* [Giới Thiệu về Giáo Dục Tình Dục](gdtd/gioi-thieu-ve-giao-duc-tinh-duc.md)
+* [Tầm Quan Trọng của Giáo Dục Tình Dục](gdtd/tam-quan-trong-cua-giao-duc-tinh-duc.md)
+* [Xây Dựng Mối Quan Hệ Lành Mạnh](gdtd/xay-dung-moi-quan-he-lanh-manh.md)
+* [Tư Vấn và Hỗ Trợ Tình Cảm](gdtd/tu-van-va-ho-tro-tinh-cam/README.md)
+  * [Các vấn đề về cảm xúc trong tuổi dậy thì](gdtd/tu-van-va-ho-tro-tinh-cam/cac-van-de-ve-cam-xuc-trong-tuoi-day-thi.md)
+  * [Hỗ trợ từ nhà trường, gia đình và cộng đồng](gdtd/tu-van-va-ho-tro-tinh-cam/ho-tro-tu-gia-dinh-va-cong-dong.md)
 
 ## Bệnh Tình Dục và Sức Khỏe Sinh Sản
 

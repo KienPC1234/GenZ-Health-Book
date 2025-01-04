@@ -122,6 +122,14 @@ Mỗi cá nhân cần chủ động xây dựng các thói quen quan hệ an to�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSf04VfBC9-CKHAtHpB2xsU2-VOyoMkhb4NYMoRhZ-MFrAez7Q/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://medlatec.vn/tin-tuc/trichomoniasis-la-benh-gi-cach-nhan-biet-va-chan-doan-s74-n31533](https://medlatec.vn/tin-tuc/trichomoniasis-la-benh-gi-cach-nhan-biet-va-chan-doan-s74-n31533)

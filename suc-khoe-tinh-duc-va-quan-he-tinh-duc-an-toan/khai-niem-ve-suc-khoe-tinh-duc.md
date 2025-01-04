@@ -146,6 +146,12 @@ Một số nghiên cứu đã cho thấy ảnh hưởng của đại dịch, n�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScHcJPzuqX-_lc7mXzSec5L2LbaOmh6ObVSByKUKDhu3AoBVQ/viewform?usp=dialog" %}
+
+***
+
 ### THAM KHẢO <a href="#id-3-tai-lieu-tham-khao" id="id-3-tai-lieu-tham-khao"></a>
 
 1\. World Healh Organization. Sexual and reproductive health: Dzfming ŠSexual Health. 2006a 7/16/2019.

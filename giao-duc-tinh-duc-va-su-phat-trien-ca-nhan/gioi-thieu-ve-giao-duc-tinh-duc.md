@@ -132,6 +132,14 @@ Thực tế, giáo dục giới tính cho bé gái và bé trai không hoàn to�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe1vPCWr_MtTgljQbsh7rysTPfL5SMNZu89tgLks_y-F2sAMw/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://tamanhhospital.vn/giao-duc-gioi-tinh-cho-tre](https://tamanhhospital.vn/giao-duc-gioi-tinh-cho-tre)

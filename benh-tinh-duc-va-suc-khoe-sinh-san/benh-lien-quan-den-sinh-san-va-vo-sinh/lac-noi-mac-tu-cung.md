@@ -122,6 +122,14 @@ Một số bệnh nhân phải đối mặt với cơn đau nghiêm trọng và 
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeH213qv3CFi4foUwo-9rudrQQ3mZ9Q8NsZ09hZu2rtBarDYQ/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://www.vinmec.com/vie/bai-viet/trieu-chung-cach-chan-doan-lac-noi-mac-tu-cung-vi](https://www.vinmec.com/vie/bai-viet/trieu-chung-cach-chan-doan-lac-noi-mac-tu-cung-vi)

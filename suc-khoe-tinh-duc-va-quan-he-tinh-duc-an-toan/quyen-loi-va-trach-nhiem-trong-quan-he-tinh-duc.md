@@ -73,6 +73,14 @@ Luật Hôn nhân và gia đình (HN\&GĐ) năm 2014 có các quy định liên 
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdfrNgRRk5GhlpwzjxNee4IUqxf_lwH_519-rxsNEOT-8F0Yw/viewform?usp=dialog" %}
+
+
+
+***
+
 ## THAM KHẢO
 
 1. Vấn đề quyền về tình dục trên thế giới và ở Việt Nam (**PGS,TS. VŨ CÔNG GIAO, ThS. NGUYỄN MINH TÂM - Khoa Luật, Đại học Quốc gia Hà Nội)**

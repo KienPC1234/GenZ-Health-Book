@@ -102,6 +102,12 @@ Cũng như các giai đoạn trước, bước vào thời kỳ mãn kinh, cơ t
 
 ***
 
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdvEJVnTETLxTW_jEWtM6TM9UH3nP3DCcNTmIkmyRpzCmC6OA/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://medlatec.vn/tin-tuc/man-kinh-la-gi-va-nhung-dieu-can-biet-ve-man-kinh-s74-n29324](https://medlatec.vn/tin-tuc/man-kinh-la-gi-va-nhung-dieu-can-biet-ve-man-kinh-s74-n29324)

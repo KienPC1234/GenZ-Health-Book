@@ -75,6 +75,12 @@ Khi thấy con em có những biểu hiện tâm lý không bình thường, ph�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc2Jbd6jUFAlMB1Jnu0C6tipJI2Bg1_hJ472pgSLUHTAK787Q/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://nhathuoclongchau.com.vn/bai-viet/nhung-van-de-ve-tam-ly-hay-mac-phai-o-tuoi-day-thi-46974.html](https://nhathuoclongchau.com.vn/bai-viet/nhung-van-de-ve-tam-ly-hay-mac-phai-o-tuoi-day-thi-46974.html)

@@ -229,6 +229,12 @@ Chị em phụ nữ nên khám phụ khoa định kỳ, đặc biệt đến nga
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfkvGN2ZcZivtfZpbFYJ9AjfZQGj8fxWSwbbwamy8U1BVwG3Q/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo&#x20;
 
 1. [https://tamanhhospital.vn/buong-trung-da-nang/](https://tamanhhospital.vn/buong-trung-da-nang/)

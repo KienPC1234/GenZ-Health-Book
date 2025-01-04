@@ -82,6 +82,14 @@ Bên cạnh những nguyên nhân gây nên tình trạng khó mang thai do bệ
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeckiQB6shfcL6v-MRZAow46Hj2PZWUhJ4s5EKux6IWQfRoeQ/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo&#x20;
 
 1. [https://medlatec.vn/tin-tuc/nhung-dieu-can-biet-ve-benh-vo-sinh-o-nam-gioi-va-nu-gioi-s74-n18780](https://medlatec.vn/tin-tuc/nhung-dieu-can-biet-ve-benh-vo-sinh-o-nam-gioi-va-nu-gioi-s74-n18780)

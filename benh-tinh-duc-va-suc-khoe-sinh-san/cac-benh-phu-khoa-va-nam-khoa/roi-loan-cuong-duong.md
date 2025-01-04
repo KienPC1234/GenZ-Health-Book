@@ -168,6 +168,14 @@ Với từng giai đoạn bệnh, bác sĩ sẽ chỉ định **cách chữa r�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScV_tqok6P0lJDSCcujtqd004j9_PJDESVRD-FnbISrBo5VoQ/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. _Erectile dysfunction – Symptoms and causes – Mayo Clinic._ (2022, March 29). Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776

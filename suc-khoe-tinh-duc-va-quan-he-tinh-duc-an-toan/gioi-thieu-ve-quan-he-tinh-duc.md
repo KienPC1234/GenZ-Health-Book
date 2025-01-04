@@ -79,6 +79,12 @@ Các cặp đôi nên trao đổi cởi mở về nhu cầu thực sự của nh
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScF2sKnjnNXDE5CWONXYVpN-KdPEeWtyxGHaA0gvnrE8rStQQ/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://medlatec.vn/tin-tuc/cac-buoc-quan-he-tinh-duc-va-nhung-dieu-can-luu-y](https://medlatec.vn/tin-tuc/cac-buoc-quan-he-tinh-duc-va-nhung-dieu-can-luu-y)

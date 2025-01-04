@@ -69,6 +69,12 @@ Giao tiếp là chìa khóa của mọi vấn đề, mọi mối quan hệ nên 
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScoe0UA2BJMzl-R_Z8fq8fMBeHToKi5OmcaqiRQyk09hQPNqg/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://www.wegrow.edu.vn/post/6-%C4%91i%E1%BB%81u-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt-v%E1%BB%81-s%E1%BB%B1-%C4%91%E1%BB%93ng-thu%E1%BA%ADn](https://www.wegrow.edu.vn/post/6-%C4%91i%E1%BB%81u-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt-v%E1%BB%81-s%E1%BB%B1-%C4%91%E1%BB%93ng-thu%E1%BA%ADn)

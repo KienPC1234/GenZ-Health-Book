@@ -9,7 +9,7 @@ coverY: -135
 
 # Các phương pháp tránh thai
 
-### Một vài lưu ý khi lựa chọn phương pháp ngừa thai cho bản thân <a href="#mot-vai-luu-y-khi-lua-chon-phuong-phap-ngua-thai-cho-ban-than" id="mot-vai-luu-y-khi-lua-chon-phuong-phap-ngua-thai-cho-ban-than"></a>
+## Một vài lưu ý khi lựa chọn phương pháp ngừa thai cho bản thân <a href="#mot-vai-luu-y-khi-lua-chon-phuong-phap-ngua-thai-cho-ban-than" id="mot-vai-luu-y-khi-lua-chon-phuong-phap-ngua-thai-cho-ban-than"></a>
 
 Ngày 25/9 được lấy làm ngày tránh thai thế giới với mong muốn giới trẻ có thêm hiểu biết và có trách nhiệm trong việc quan hệ tình dục an toàn, chủ động phòng tránh mang thai ngoài ý muốn.
 
@@ -165,7 +165,14 @@ Các biện pháp tránh thai phổ biến hiện nay như dùng bao cao su, u�
 
 Phương pháp đặt dụng cụ tử cung trong một số trường hợp có thể gây ra đau bụng, rối loạn kinh nguyệt, kinh nguyệt ra nhiều hay gây ra các vấn đề về viêm nhiễm vùng chậu hay viêm âm đạo. Vì vậy với các chị em gặp các bất thường sau khi đặt dụng cụ tử cung nên liên hệ với bác sĩ để được thăm khám sớm.
 
-Trường hợp những chị em có sử dụng [thuốc tránh thai hằng ngày](https://tamanhhospital.vn/thuoc-tranh-thai-hang-ngay/) cần lưu ý các chỉ định và chống chỉ định khi dùng thuốc. Thuốc chống chỉ định với những người có bệnh nền như bệnh tim mạch, tiểu đường, người có bệnh gan nặng hoặc có tổn thương mạch máu, có các khối u nghi ngờ ác tính… Vì vậy để an toàn trong khi sử dụng, chị em cần tham khảo ý kiến của bác sĩ để lựa chọn phương pháp tránh thai phù hợp nhất.\
+Trường hợp những chị em có sử dụng [thuốc tránh thai hằng ngày](https://tamanhhospital.vn/thuoc-tranh-thai-hang-ngay/) cần lưu ý các chỉ định và chống chỉ định khi dùng thuốc. Thuốc chống chỉ định với những người có bệnh nền như bệnh tim mạch, tiểu đường, người có bệnh gan nặng hoặc có tổn thương mạch máu, có các khối u nghi ngờ ác tính… Vì vậy để an toàn trong khi sử dụng, chị em cần tham khảo ý kiến của bác sĩ để lựa chọn phương pháp tránh thai phù hợp nhất.
+
+***
+
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfnZywKU7IfnwyucJL7VtXHJbCM6ZL73TZYAw0YNuKYkhcRCQ/viewform?usp=dialog" %}
+
 
 
 ***

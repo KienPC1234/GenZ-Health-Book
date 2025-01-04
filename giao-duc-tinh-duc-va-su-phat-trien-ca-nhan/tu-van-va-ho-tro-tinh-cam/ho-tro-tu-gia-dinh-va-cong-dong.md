@@ -33,6 +33,12 @@ Theo TS tâm lý Nguyễn Thành Nam (ĐH Quốc gia Hà Nội), khá nhiều ph
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfoqDXkhlMO9LkFfdNEiqVxAdzTYYVVrpz6AGB5erjRoe3Usw/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://giadinh.suckhoedoisong.vn/gia-dinh-va-nha-truong-cung-phoi-hop-trong-giao-duc-gioi-tinh-cho-hoc-sinh-172201225161147835.htm](https://giadinh.suckhoedoisong.vn/gia-dinh-va-nha-truong-cung-phoi-hop-trong-giao-duc-gioi-tinh-cho-hoc-sinh-172201225161147835.htm)

@@ -74,6 +74,12 @@ Với những thông tin trên đây, hy vọng bạn đã hiểu được thế
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfCh9ptfAY9IdP-v_dYi_1s7UZGE1m4XKFPpJfo069si60aIA/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://nhathuoclongchau.com.vn/bai-viet/the-nao-la-moi-quan-he-lanh-manh-cach-xay-dung-moi-quan-he-lanh-manh.html](https://nhathuoclongchau.com.vn/bai-viet/the-nao-la-moi-quan-he-lanh-manh-cach-xay-dung-moi-quan-he-lanh-manh.html)

@@ -148,13 +148,19 @@ U xơ cổ tử cung có thể mang lại những hậu quả nghiêm trọng ch
 
 Bệnh nhân vẫn có thể mang thai ngay cả khi bị **u xơ tử cung**. Trong trường hợp này, bác sĩ sẽ lập kế hoạch theo dõi u xơ trong suốt thai kỳ. Sự tăng sản xuất hormone trong cơ thể khi mang thai có thể làm cho u xơ phát triển lớn hơn, nhưng đồng thời cũng hỗ trợ sự phát triển của thai nhi.
 
-###
-
 ### U xơ tử cung có thể tự khỏi không?
 
 Có, u xơ có thể teo lại ở một số phụ nữ sau khi mãn kinh do sự suy giảm nội tiết tố. Khi đó, các triệu chứng có thể biến mất do khối u xơ co lại. Ngoài ra, nếu phát hiện ra các khối u xơ nhỏ thì bác sĩ vẫn có thể quyết định không cần điều trị nếu không có ảnh hưởng hay triệu chứng nào với sức khỏe người bệnh.
 
 <figure><img src="https://www.vinmec.com/static/uploads/large_u_xo_tu_cung_fc0e36f816.jpg" alt="Tình trạng u xơ tử cung rất nguy hiểm và cần khám định kỳ để theo dõi tình trạng bệnh cũng như có hướng phòng ngừa từ sớm"><figcaption><p>Tình trạng u xơ tử cung rất nguy hiểm và cần khám định kỳ để theo dõi tình trạng bệnh cũng như có hướng phòng ngừa từ sớm</p></figcaption></figure>
+
+***
+
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSedmyc-VXBJhfgs-ckLDakxxqmXM9K1Y8pvLe5RqjIFVXactQ/viewform?usp=dialog" %}
+
+
 
 ***
 

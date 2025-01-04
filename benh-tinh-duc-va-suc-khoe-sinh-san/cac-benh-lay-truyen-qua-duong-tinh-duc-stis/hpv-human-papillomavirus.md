@@ -50,7 +50,11 @@ Các chủng HPV có nguy cơ thấp chẳng hạn như HPV 6, 11 gây ra khoả
 
 {% embed url="https://www.youtube.com/watch?v=ITYx-cCpbHQ" %}
 
+***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScU8U4Ijd8O6hMueRS70NTXYaPluQx-PnpOTFwuMABtFajA3w/viewform?usp=dialog" %}
 
 ***
 

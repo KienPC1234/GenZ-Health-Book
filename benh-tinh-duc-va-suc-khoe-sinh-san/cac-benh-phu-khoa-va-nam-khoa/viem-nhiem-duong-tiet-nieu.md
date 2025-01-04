@@ -89,6 +89,14 @@ Bệnh viêm đường tiết niệu có thể phòng ngừa và chữa trị n�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdYY4yqBMUkIWCenbORs2P2giiVSFmRXwNdX7EpCDoye1xbvg/viewform?usp=dialog" %}
+
+***
+
+
+
 ## Tham Khảo
 
 1. [https://www.vinmec.com/vie/bai-viet/viem-duong-tiet-nieu-la-benh-gi-va-co-nguy-hiem-khong-vi](https://www.vinmec.com/vie/bai-viet/viem-duong-tiet-nieu-la-benh-gi-va-co-nguy-hiem-khong-vi)

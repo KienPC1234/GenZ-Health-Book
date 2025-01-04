@@ -99,7 +99,9 @@ Những trường hợp bị nhiễm trùng nghiêm trọng như viêm vùng ch�
 
 ***
 
-{% embed url="https://forms.gle/pR2u6SPwMse9oEVH9" %}
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfUEWeNJQ0us83eo_bEFUHyysCwrg3zKki7ITDFyjf8VeePlA/viewform?usp=dialog" %}
 
 ***
 

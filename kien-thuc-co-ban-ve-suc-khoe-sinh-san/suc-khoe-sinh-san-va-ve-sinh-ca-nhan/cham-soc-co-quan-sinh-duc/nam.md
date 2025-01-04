@@ -68,6 +68,14 @@ Trên đây là một vài [cách vệ sinh dương vật](https://nhathuoclongc
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSffzUJ4Q-aJ4GJkOGaxB6pkgFJE_sIUlX5-Fy-iO0Hd9XRSIQ/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo&#x20;
 
 1. [https://nhathuoclongchau.com.vn/bai-viet/huong-dan-cach-ve-sinh-duong-vat-hang-ngay-71158.html](https://nhathuoclongchau.com.vn/bai-viet/huong-dan-cach-ve-sinh-duong-vat-hang-ngay-71158.html)

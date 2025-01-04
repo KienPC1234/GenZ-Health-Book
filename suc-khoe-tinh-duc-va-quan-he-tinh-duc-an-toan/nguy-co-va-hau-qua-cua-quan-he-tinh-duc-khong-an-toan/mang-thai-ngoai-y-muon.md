@@ -73,6 +73,14 @@ Bài viết trên đây là toàn bộ giải đáp của chúng tôi về cách
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSd2b4_S_xve9EIzWglL2VGG3mcApAe03_ctTuu_0xpucE2oBw/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://nhathuoclongchau.com.vn/bai-viet/cach-xu-ly-khi-mang-thai-ngoai-y-muon-va-mot-so-bien-phap-tranh-thai-phu-hop.html](https://nhathuoclongchau.com.vn/bai-viet/cach-xu-ly-khi-mang-thai-ngoai-y-muon-va-mot-so-bien-phap-tranh-thai-phu-hop.html)

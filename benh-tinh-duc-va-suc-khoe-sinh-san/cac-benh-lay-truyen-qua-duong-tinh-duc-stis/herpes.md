@@ -75,6 +75,12 @@ Các triệu chứng bao gồm:
 
 {% embed url="https://www.youtube.com/watch?v=w9ng8iOjnfw" %}
 
+***
+
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSekYAp02nEtK0JQnfFD87WdzJdMww53VO3mUrw-iHksm8mj-Q/viewform?usp=dialog" %}
+
 
 
 ***

@@ -50,7 +50,9 @@ Bé gái sẽ cao thêm khoảng 25–35 cm sau khi dậy thì.
 
 ***
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc2Jf9Yu-CEdOT6xSYHKknaXhc6DCfijXGBH-Kkh6C-268ogw/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1UYd_BdfCGk_Ygq5IFE6SsQ8gE7cWBAZDoC5QyhtmkXdrJK3TvznPBiko_aem_bdf_J1TN-0XZfq7MYFwBVg" %}
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfSXSz2hdYT0Vwv8nZTZrd7npEceqZr8qC4kw2hSKz9G3-R-g/viewform?usp=dialog" %}
 
 
 

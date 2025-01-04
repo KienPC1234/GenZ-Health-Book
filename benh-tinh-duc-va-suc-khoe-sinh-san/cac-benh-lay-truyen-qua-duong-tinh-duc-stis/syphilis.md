@@ -71,9 +71,17 @@ Nếu gặp phải hoặc chưa có những triệu chứng nêu trên, bạn v�
 
 ***
 
-## Bệnh Giang Mai| Bệnh tình dục| DẤU HIỆU, TRIỆU CHỨNG, CHỮA TRỊ THẾ NÀO? (Video)
+## Bệnh Giang Mai | Bệnh tình dục | DẤU HIỆU, TRIỆU CHỨNG, CHỮA TRỊ THẾ NÀO? (Video)
 
 {% embed url="https://www.youtube.com/watch?v=6wEzkxWafdg" %}
+
+***
+
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSf-Gm31h-kl60DMRFtxL7QxEt1395ZUldyEKLsa334lDu_cYw/viewform?usp=dialog" %}
+
+
 
 ***
 

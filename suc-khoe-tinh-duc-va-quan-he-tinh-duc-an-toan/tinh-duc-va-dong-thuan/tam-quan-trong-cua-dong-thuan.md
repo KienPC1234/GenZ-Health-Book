@@ -42,6 +42,12 @@ Trong trường hợp đã có quan hệ tình dục, cần tư vấn để lự
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc6zRpCxIkOP57Fx2L_IFw6lcIuDKaSD13Sf1NSQ-9vL34uXA/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://suckhoedoisong.vn/the-nao-goi-la-tinh-duc-dong-thuan-169145422.htm](https://suckhoedoisong.vn/the-nao-goi-la-tinh-duc-dong-thuan-169145422.htm)

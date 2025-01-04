@@ -153,6 +153,12 @@ Bác sĩ của bạn có thể không khuyến khích sử dụng minipill nếu
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfLCU6mKgn8AwL--Qt7D4WkPO_G-gmVcCxwZbwM2Z0a2hRF6g/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://www.vinmec.com/vie/bai-viet/cach-lua-chon-thuoc-tranh-thai-phu-hop-hieu-qua-toan-vi](https://www.vinmec.com/vie/bai-viet/cach-lua-chon-thuoc-tranh-thai-phu-hop-hieu-qua-toan-vi)

@@ -170,6 +170,14 @@ Các chuyên gia Nam học cho rằng, tuy bệnh STDs có tốc độ lây lan 
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdCZCtM-GVhxM9xmCn7P_g4t5zZcV935-rH5Y9LRBy-lX5LGg/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://www.vinmec.com/vie/bai-viet/9-benh-lay-qua-duong-tinh-duc-pho-bien-nhat-vi](https://www.vinmec.com/vie/bai-viet/9-benh-lay-qua-duong-tinh-duc-pho-bien-nhat-vi)

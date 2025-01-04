@@ -53,6 +53,12 @@ Nhìn chung, quá trình thụ thai sẽ mất từ 13 – 14 ngày. Tuy nhiên,
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfV_70XWlgpDb6rT4w14jiQs28lGNQQuODYT4t-yf4qlCHggg/viewform?usp=dialog" %}
+
+***
+
 ## Tham Khảo
 
 1. [https://www.vinmec.com/vie/bai-viet/qua-trinh-thu-thai-dien-ra-nhu-nao-va-trong-bao-lau-vi](https://www.vinmec.com/vie/bai-viet/qua-trinh-thu-thai-dien-ra-nhu-nao-va-trong-bao-lau-vi)

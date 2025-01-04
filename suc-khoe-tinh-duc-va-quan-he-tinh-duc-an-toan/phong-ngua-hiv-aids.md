@@ -113,6 +113,14 @@ Sau khi có quan hệ tình dục không an toàn với người nhiễm HIV, c�
 
 ***
 
+## Quiz
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSd444UCrCZxu69K89-eg76Fq-iw6gm8yoJUQ5vz3vAoPvZCYg/viewform?usp=dialog" %}
+
+
+
+***
+
 ## Tham Khảo
 
 1. [https://medlatec.vn/tin-tuc/cach-quan-he-tinh-duc-khong-bi-nhiem-hiv-ma-ban-nen-biet-s78-n31265](https://medlatec.vn/tin-tuc/cach-quan-he-tinh-duc-khong-bi-nhiem-hiv-ma-ban-nen-biet-s78-n31265)

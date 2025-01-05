@@ -2,7 +2,7 @@
 description: >-
   Dậy thì là một giai đoạn phát triển quan trọng trong cuộc đời của mỗi người.
   Đây là thời điểm cơ thể trải qua những thay đổi mạnh mẽ về thể chất và tinh
-  thần để chuyển từ giai đoạn trẻ em sang người t
+  thần.
 cover: ../../.gitbook/assets/day_thi_1_f978d543e6.png
 coverY: 146.17428817946507
 ---

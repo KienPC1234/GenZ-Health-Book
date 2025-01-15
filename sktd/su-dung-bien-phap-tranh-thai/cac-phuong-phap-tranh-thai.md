@@ -32,6 +32,8 @@ Theo Bác sĩ Nguyễn Bá Mỹ Nhi, Giám đốc Trung tâm Sản phụ khoa, B
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=8pgbK2otBS4" %}
+
 ***
 
 ## 2. Thuốc ngừa thai dạng uống
